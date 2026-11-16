@@ -354,6 +354,3 @@ Penelitian ini menerapkan algoritma SVM (`SVC` dengan parameter bawaan) pada *Pi
 9. Smith, J. W., Everhart, J. E., Dickson, W. C., Knowler, W. C., & Johannes, R. S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. *Proceedings of the Annual Symposium on Computer Application in Medical Care*, 261–265.
 
 ---
-Proyek ini dirilis di bawah lisensi `<MIT / Apache-2.0 / lainnya>`. Dataset tunduk pada ketentuan lisensi penyedia aslinya.
-
-Jika repositori ini bermanfaat, silakan beri ⭐ dan sitasi sebagaimana mestinya.
